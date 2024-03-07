@@ -36,6 +36,8 @@ It is written in C++ with portability in mind and builds are actively maintained
   <a href="#license">License</a>
 </p>
 
+UwU don't sue me senpai UwU
+
 
 ## Compatibility
 
